@@ -1,9 +1,15 @@
 body {
     font-family: sans-serif;
     min-height: 400px;
+<<<<<<< HEAD
     background-image:url(../assets/moeda.jpeg);
     background-size: 1%;
     background-color: rgb(78, 69, 17);   
+=======
+    background-image:url(../assets/conversor\ de\ moeda.jpeg) ;
+    background-color: rgb(78, 69, 17)   
+    
+>>>>>>> 1c54f69e8c81732420f9ab28cf58c225c84722d0
 }
   
 .container {
